@@ -1,0 +1,7 @@
+TODO: Convert the addGame form in Home to a component
+TODO: Remove validation errors after submiting the form
+TODO: Add some input validation to the form
+TODO: Add support to the user input multiple developers/series/genres/platforms/..etc when adding a new addGame
+    This may be achieve by using semicolons ; to separate the items ou by a (Add New) button which would generate a new form
+TODO: Rich text box for the full description field (and handle sectioning)
+TODO: Add the ability to edit and delete game entries in the wikia
